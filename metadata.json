@@ -1,0 +1,6 @@
+{
+  "name": "School Result Prediction System",
+  "description": "A machine learning-powered web application for predicting school results based on student performance data.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
